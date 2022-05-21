@@ -19,4 +19,4 @@ Allow: /wp-*.gif
 Allow: /wp-*.svg          
 Allow: /wp-*.pdf
  
-Sitemap: https://localhost/idlewildlodge/xmlsitemap.xml/
+Sitemap: https://www.idlewildlodge.org/xmlsitemap.xml/
