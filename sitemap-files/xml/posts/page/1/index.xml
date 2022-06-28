@@ -2,7 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="https://www.idlewildlodge.org/wp-content/plugins/www-xml-sitemap-generator-org//assets/SitemapXML.xsl"?>
 <!-- Created using XmlSitemapGenerator.org WordPress Plugin - Free HTML, RSS and XML sitemap generator -->
 <urlset  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" >
-<url><loc>https://www.idlewildlodge.org</loc><lastmod>2022-06-25T08:28:28+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://www.idlewildlodge.org</loc><lastmod>2022-06-28T19:26:18+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://www.idlewildlodge.org/media/</loc><lastmod>2022-06-28T19:26:18+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://www.idlewildlodge.org/documents/</loc><lastmod>2022-06-28T12:40:01+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://www.idlewildlodge.org/photos/</loc><lastmod>2022-06-27T14:44:53+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://www.idlewildlodge.org/articles/</loc><lastmod>2022-06-27T15:14:03+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.idlewildlodge.org/contact/</loc><lastmod>2022-06-12T04:03:35+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.idlewildlodge.org/timeline/</loc><lastmod>2022-06-12T04:05:17+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.idlewildlodge.org/colorizations/</loc><lastmod>2022-06-12T04:03:10+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
