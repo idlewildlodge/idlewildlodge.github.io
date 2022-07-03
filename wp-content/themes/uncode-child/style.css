@@ -7,3 +7,5 @@ Template: uncode
 Version: 1.0.0
 Text Domain: 
 */
+
+.moviepost .t-entry-visual-overlay {display: none;}
