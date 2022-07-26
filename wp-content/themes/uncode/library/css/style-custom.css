@@ -351,6 +351,12 @@
 .btn-custom-typo.font-555555 { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif,dashicons !important; }
 
 /*----------------------------------------------------------
+#'Kaisei Opti'
+----------------------------------------------------------*/
+.font-156400 { font-family: 'Kaisei Opti' !important; }
+.btn-custom-typo.font-156400 { font-family: 'Kaisei Opti' !important; }
+
+/*----------------------------------------------------------
 #Standard font size
 ----------------------------------------------------------*/
 body,p,li,dt,dd,dl,address,label,pre,code { font-size: 15px; }

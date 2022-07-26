@@ -9,3 +9,9 @@ Text Domain:
 */
 
 .moviepost .t-entry-visual-overlay {display: none;}
+.zindex0 { z-index: -1;}
+.zindex9 { z-index: 99999;}
+.homebutton { bottom: 0px;
+	z-index: 99999; margin: -35px 0px 0px 0px;}
+.tmb-username-wrap {
+	margin: 0px 0px 0px 0px;}

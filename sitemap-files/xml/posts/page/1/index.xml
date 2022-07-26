@@ -2,17 +2,17 @@
 <?xml-stylesheet type="text/xsl" href="https://www.idlewildlodge.org/wp-content/plugins/www-xml-sitemap-generator-org//assets/SitemapXML.xsl"?>
 <!-- Created using XmlSitemapGenerator.org WordPress Plugin - Free HTML, RSS and XML sitemap generator -->
 <urlset  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" >
-<url><loc>https://www.idlewildlodge.org</loc><lastmod>2022-07-04T19:10:58+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-<url><loc>https://www.idlewildlodge.org/archives/</loc><lastmod>2022-07-04T19:10:58+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://www.idlewildlodge.org</loc><lastmod>2022-07-26T23:17:57+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://www.idlewildlodge.org/archives/</loc><lastmod>2022-07-26T23:12:07+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.idlewildlodge.org/movies/</loc><lastmod>2022-07-04T19:04:58+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.idlewildlodge.org/documents/</loc><lastmod>2022-07-04T19:05:47+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.idlewildlodge.org/photos/</loc><lastmod>2022-07-04T19:04:19+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.idlewildlodge.org/articles/</loc><lastmod>2022-07-03T17:40:16+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://www.idlewildlodge.org/timeline/</loc><lastmod>2022-06-12T04:05:17+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://www.idlewildlodge.org/colorizations/</loc><lastmod>2022-06-12T04:03:10+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://www.idlewildlodge.org/timeline/</loc><lastmod>2022-07-26T23:10:03+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://www.idlewildlodge.org/colorizations/</loc><lastmod>2022-07-26T21:28:27+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://www.idlewildlodge.org/search/</loc><lastmod>2022-06-12T04:04:34+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://www.idlewildlodge.org/posts/</loc><lastmod>2022-06-12T04:04:21+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://www.idlewildlodge.org/about/</loc><lastmod>2021-04-20T15:00:59+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://www.idlewildlodge.org/posts/</loc><lastmod>2022-07-26T23:17:57+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://www.idlewildlodge.org/about/</loc><lastmod>2022-07-26T22:34:00+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 
 </urlset>
 <!-- Created using XmlSitemapGenerator.org WordPress Plugin - Free HTML, RSS and XML sitemap generator -->

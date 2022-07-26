@@ -17078,7 +17078,7 @@ body:not(.single-product) .header-wrapper .owl-stage-outer {
   white-space: inherit;
 }
 .tmb .t-entry p.t-entry-author span.tmb-username-wrap:not(.tmb-username-wrap-block) {
-  margin: 0px 0px 0px 12px;
+  margin: 0px 0px 0px 0px;
 }
 .tmb .t-entry p.t-entry-small {
   font-size: 12px;
