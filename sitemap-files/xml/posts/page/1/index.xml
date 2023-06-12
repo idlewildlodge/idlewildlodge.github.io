@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://idlewildlodge.github.io/wp-content/plugins/www-xml-sitemap-generator-org//assets/SitemapXML.xsl"?>
+<!-- Created using XmlSitemapGenerator.org WordPress Plugin - Free HTML, RSS and XML sitemap generator -->
+<urlset  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" >
+<url><loc>https://idlewildlodge.github.io</loc><lastmod>2023-06-03T09:21:31+00:00</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://idlewildlodge.github.io/custom-navigation/</loc><lastmod>2023-02-27T01:38:59+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/maps/</loc><lastmod>2023-04-06T23:07:11+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/archives/</loc><lastmod>2023-04-06T23:04:30+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/movies/</loc><lastmod>2023-04-07T02:59:42+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/documents/</loc><lastmod>2023-04-07T03:02:01+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/photos/</loc><lastmod>2023-04-07T02:50:38+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/articles/</loc><lastmod>2023-04-07T03:03:31+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/chronology/</loc><lastmod>2023-04-07T02:11:08+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/colorizations/</loc><lastmod>2023-04-06T23:02:50+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/search/</loc><lastmod>2023-03-05T06:52:05+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/posts/</loc><lastmod>2023-04-06T23:04:02+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://idlewildlodge.github.io/about/</loc><lastmod>2023-04-06T23:04:29+00:00</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+</urlset>
+<!-- Created using XmlSitemapGenerator.org WordPress Plugin - Free HTML, RSS and XML sitemap generator -->

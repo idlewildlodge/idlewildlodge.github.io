@@ -1,0 +1,16 @@
+@font-face {
+	font-family: "Amatic";
+	src: ;
+	src: url('https://idlewildlodge.github.io/wp-content/uploads/uncode-fonts/amatic/AmaticSC-Regular-webfont.ttf') format('truetype'),
+		url('https://idlewildlodge.github.io/wp-content/uploads/uncode-fonts/amatic/AmaticSC-Regular-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Amatic";
+	src: ;
+	src: url('https://idlewildlodge.github.io/wp-content/uploads/uncode-fonts/amatic/Amatic-Bold-webfont.ttf') format('truetype'),
+		url('https://idlewildlodge.github.io/wp-content/uploads/uncode-fonts/amatic/Amatic-Bold-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
